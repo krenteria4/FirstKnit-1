@@ -23,7 +23,7 @@ print(xx)
 #yy <- str_glue("{Drive_ltr}\\AAA_Owner_Info\\My_photo.jpg")
 yy = 'My_photo.jpg'
 my_pict <- load.image(yy)
-plot(my_pict,axes=FALSE,main="I'm Confused")
+plot(my_pict,axes=FALSE,main="I'm Confused")  
 ```
 
 # A Little Survey
